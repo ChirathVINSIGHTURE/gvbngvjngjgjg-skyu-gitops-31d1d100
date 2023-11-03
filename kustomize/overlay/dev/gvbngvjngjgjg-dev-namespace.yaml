@@ -1,0 +1,10 @@
+apiVersion: v1
+kind: Namespace
+metadata:
+  name: gvbngvjngjgjg-dev
+  labels:
+    environment-id: env_fa8e257f-86cb-428a-88f9-d0c9c7ec8af7
+    project-id: project_1009d2b5-3d34-447c-a723-a8cc1a767f26
+    project-name: gvbngvjngjgjg
+    environment-name: dev
+    organization-id: org_9aad87d0-abbc-48f9-9038-002316f0475a
